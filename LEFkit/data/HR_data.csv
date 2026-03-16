@@ -1,0 +1,1001 @@
+Gender;Seniority Years;Office Location;Role;Hours Per Week;Annual Salary;Performance;Training Hours
+F;8;Location_1;Director Consulting Expert;35;143412;ME;32.86
+M;5;Location_1;Director Consulting Services/Delivery/Business;35;139457;ME;34.69
+M;5;Location_1;Director Consulting Services/Delivery/Business;35;141085;ME;28.2
+F;5;Location_1;Director Consulting Services/Delivery/Business;35;150815;ND;30.81
+F;5;Location_2;Director Consulting Services/Delivery/Business;35;151707;EE;31.78
+F;11;Location_3;Director Consulting Services/Delivery/Business;35;166687;EE;31.7
+M;14;Location_2;Director Consulting Expert;35;153930;ME;32.64
+F;10;Location_2;Director Consulting Services/Delivery/Business;35;144357;ME;26.48
+M;13;Location_1;Director Consulting Services/Delivery/Business;35;163275;ME;28.28
+M;8;Location_1;Director Consulting Services/Delivery/Business;35;127855;ND;26.67
+F;9;Location_1;Director Consulting Services/Delivery/Business;40;190220;ME;17.26
+F;9;Location_2;Director Consulting Services/Delivery/Business;40;165300;ME;26.87
+F;9;Location_1;VP Expert;40;306520;ME;22.88
+M;11;Location_3;VP Services/Delivery/Business;40;204560;ME;24.85
+F;23;Location_1;Director Consulting Services/Delivery/Business;40;266820;ND;26.94
+M;10;Location_1;Director Consulting Services/Delivery/Business;40;189640;EE;27.6
+F;14;Location_1;Director Consulting Services/Delivery/Business;40;253580;EE;30.1
+F;8;Location_4;Director Consulting Services/Delivery/Business;40;186340;ME;24.38
+M;17;Location_3;VP Services/Delivery/Business;40;309480;ME;22.13
+M;7;Location_1;Director Consulting Services/Delivery/Business;40;155319;ME;30.39
+M;13;Location_1;VP Expert;40;273160;EE;29.15
+F;16;Location_1;Director Consulting Services/Delivery/Business;40;183819;EE;36.27
+M;13;Location_3;VP Services/Delivery/Business;40;319639;ME;28.55
+M;9;Location_1;Director Consulting Services/Delivery/Business;40;192819;ME;25.99
+M;11;Location_3;Director Consulting Expert;40;226639;ME;26.22
+M;6;Location_2;Director Consulting Services/Delivery/Business;40;173040;ME;37.31
+M;9;Location_1;Director Consulting Expert;40;175660;EE;30.43
+F;5;Location_4;Administrative Assistant;40;62260;ME;23.3
+F;5;Location_1;Director Consulting Services/Delivery/Business;40;152020;ME;25.31
+F;6;Location_3;Director Consulting Expert;40;169700;ME;38.83
+M;6;Location_3;Director Consulting Services/Delivery/Business;40;158020;ME;27.29
+F;13;Location_1;Director Consulting Services/Delivery/Business;40;198560;ME;24.62
+M;6;Location_1;Director Consulting Services/Delivery/Business;40;140300;ND;31.38
+M;8;Location_1;Director Consulting Expert;40;147040;ME;30.11
+M;9;Location_1;Director Consulting Services/Delivery/Business;40;226660;ME;28.29
+M;6;Location_4;Director Consulting Services/Delivery/Business;40;146760;ME;25.16
+M;12;Location_1;Director Consulting Services/Delivery/Business;40;228740;EE;34.55
+F;5;Location_1;Director Consulting Services/Delivery/Business;40;157760;EE;31.54
+F;6;Location_1;Director Consulting Services/Delivery/Business;40;159760;EE;34.01
+M;10;Location_1;Director Consulting Services/Delivery/Business;40;162120;EE;27.43
+F;6;Location_1;Director Consulting Services/Delivery/Business;40;167819;ME;25.16
+M;13;Location_1;VP Expert;40;305120;ME;32.92
+F;24;Location_3;Director Consulting Services/Delivery/Business;40;238740;EE;25.77
+F;24;Location_1;VP Expert;40;270320;EE;24.05
+M;17;Location_1;Director Consulting Services/Delivery/Business;40;219740;ME;39.01
+F;19;Location_3;VP Services/Delivery/Business;40;362700;SEE;36.37
+F;5;Location_1;Director Consulting Services/Delivery/Business;40;141300;ME;25.19
+F;8;Location_2;Director Consulting Expert;40;175760;ME;33.13
+F;6;Location_3;Director Consulting Services/Delivery/Business;40;145419;ME;28.17
+M;12;Location_1;Director Consulting Services/Delivery/Business;40;136340;ND;35.43
+F;8;Location_1;Director Consulting Services/Delivery/Business;40;172120;ME;27.64
+M;17;Location_1;Director Consulting Services/Delivery/Business;40;220240;ME;27.72
+F;19;Location_1;Director Consulting Services/Delivery/Business;40;213960;EE;27.65
+F;9;Location_1;Director Consulting Services/Delivery/Business;40;232440;ND;29.29
+M;22;Location_1;Director Consulting Expert;40;203680;ND;29.67
+M;8;Location_1;Director Consulting Services/Delivery/Business;40;221119;EE;25.42
+F;6;Location_1;Director Consulting Services/Delivery/Business;40;165340;ND;33.58
+F;8;Location_1;Director Consulting Services/Delivery/Business;40;192419;EE;34.58
+F;11;Location_1;Director Consulting Services/Delivery/Business;40;153240;ME;34.41
+M;20;Location_1;Director Consulting Expert;40;209200;ME;31.27
+F;8;Location_1;VP Services/Delivery/Business;40;301540;ME;30.87
+M;18;Location_3;Director Consulting Expert;40;215260;ME;39.19
+F;6;Location_1;Director Consulting Services/Delivery/Business;40;143160;ME;30.82
+M;10;Location_1;Director Consulting Services/Delivery/Business;40;161500;ME;25.9
+F;15;Location_1;Director Consulting Services/Delivery/Business;40;249400;ME;37.24
+F;7;Location_3;Director Consulting Services/Delivery/Business;40;154900;ME;25.64
+M;10;Location_4;Administrative Assistant;40;72140;SEE;29.78
+M;9;Location_3;Director Consulting Services/Delivery/Business;40;204280;ME;23.17
+M;8;Location_1;Director Consulting Services/Delivery/Business;40;202400;ME;32.06
+F;8;Location_3;Director Consulting Services/Delivery/Business;40;147940;SEE;31.04
+M;13;Location_1;Director Consulting Services/Delivery/Business;40;203340;EE;27.5
+F;9;Location_1;Director Consulting Services/Delivery/Business;40;149860;SEE;27.94
+F;17;Location_2;Director Consulting Services/Delivery/Business;40;192620;ME;26.35
+M;8;Location_2;VP Expert;40;245180;ND;31.63
+F;8;Location_1;VP Expert;40;246840;ME;33.41
+F;12;Location_1;Director Consulting Services/Delivery/Business;40;195220;ME;25.47
+M;15;Location_1;Director Consulting Services/Delivery/Business;40;193780;ME;32.75
+F;8;Location_3;Director Consulting Services/Delivery/Business;40;173900;EE;25.01
+F;18;Location_3;Director Consulting Services/Delivery/Business;40;197160;ME;27.4
+M;20;Location_1;VP Services/Delivery/Business;40;320560;ME;37.16
+F;11;Location_3;Director Consulting Services/Delivery/Business;40;197700;ME;28.22
+F;18;Location_1;Director Consulting Services/Delivery/Business;40;234819;EE;27.24
+M;6;Location_3;Director Consulting Services/Delivery/Business;40;167480;ME;24.56
+F;6;Location_3;Director Consulting Services/Delivery/Business;40;144919;ME;26.18
+M;17;Location_2;Director Consulting Services/Delivery/Business;40;190700;ND;37.2
+M;15;Location_1;VP Services/Delivery/Business;40;324900;EE;33.01
+M;8;Location_3;Director Consulting Services/Delivery/Business;40;208419;ME;23.54
+F;11;Location_1;Director Consulting Services/Delivery/Business;40;228160;ME;34.43
+F;5;Location_1;Director Consulting Expert;40;188060;ME;30.56
+F;7;Location_1;Director Consulting Services/Delivery/Business;40;173180;ME;30.99
+M;16;Location_4;Director Consulting Services/Delivery/Business;40;191300;ND;28.95
+M;6;Location_1;Director Consulting Expert;40;149940;ME;32.07
+F;23;Location_1;Director Consulting Expert;40;229979;ME;30.51
+F;9;Location_3;Director Consulting Services/Delivery/Business;40;166340;ME;28.91
+F;6;Location_1;Director Consulting Services/Delivery/Business;40;166680;ND;28.13
+M;8;Location_1;Director Consulting Expert;40;203240;ME;25.17
+F;13;Location_2;Director Consulting Services/Delivery/Business;40;203060;ND;29.7
+M;5;Location_1;Director Consulting Services/Delivery/Business;40;135580;ME;23.39
+F;10;Location_1;Director Consulting Expert;40;153900;ME;33.78
+F;17;Location_2;VP Services/Delivery/Business;40;283380;ME;28.18
+M;14;Location_1;Director Consulting Services/Delivery/Business;40;195120;EE;30.97
+M;9;Location_1;Director Consulting Services/Delivery/Business;40;191380;ND;35.27
+M;8;Location_3;VP Services/Delivery/Business;40;236040;EE;26.84
+M;10;Location_4;Director Consulting Services/Delivery/Business;40;197260;EE;21.83
+M;7;Location_2;Director Consulting Expert;40;137940;EE;34.1
+M;9;Location_1;Director Consulting Services/Delivery/Business;40;161680;ME;24.93
+F;5;Location_1;Director Consulting Services/Delivery/Business;40;172440;EE;29.58
+F;5;Location_1;Director Consulting Services/Delivery/Business;40;191100;ME;26.29
+M;4;Location_1;Administrative Assistant;40;63079;ME;28.4
+F;12;Location_1;Director Consulting Services/Delivery/Business;40;240619;ME;26.91
+F;11;Location_1;Director Consulting Services/Delivery/Business;40;171480;ND;31.21
+F;5;Location_2;Director Consulting Services/Delivery/Business;40;169400;ND;32.78
+F;9;Location_4;VP Services/Delivery/Business;40;220800;EE;31.02
+M;7;Location_1;Director Consulting Services/Delivery/Business;40;162400;EE;26.95
+F;10;Location_4;VP Services/Delivery/Business;40;311400;ME;28.93
+F;12;Location_1;Director Consulting Services/Delivery/Business;40;222260;ME;20.35
+M;9;Location_4;Director Consulting Services/Delivery/Business;40;138240;SEE;25.17
+F;11;Location_1;Director Consulting Services/Delivery/Business;40;206819;ME;22.6
+F;6;Location_1;Director Consulting Services/Delivery/Business;40;163060;EE;19.67
+M;5;Location_1;Director Consulting Services/Delivery/Business;40;158660;EE;29.79
+F;6;Location_3;Director Consulting Services/Delivery/Business;40;143760;ME;34.16
+M;16;Location_1;Director Consulting Expert;40;208100;ME;30.77
+M;12;Location_1;VP Services/Delivery/Business;40;262780;ME;29.76
+M;7;Location_1;Director Consulting Services/Delivery/Business;40;210700;ME;29.26
+F;4;Location_3;Software Developer;35;67620;ME;25.28
+F;8;Location_1;Business Analyst;28;80808;ME;24.68
+M;4;Location_3;Software Developer;35;69037;ME;34.61
+F;2;Location_3;Project Manager;28;47446;ME;27.5
+M;6;Location_1;Service Operator;28;41594;ME;33.34
+F;2;Location_3;Service Operator;14;16401;ME;34.45
+M;2;Location_1;Service Operator;35;33022;ME;27.18
+M;0;Location_3;Software Developer;35;58204;ME;35.75
+F;5;Location_1;Service Operator;35;71837;EE;27.49
+F;5;Location_2;Service Operator;21;20821;SEE;25.22
+M;0;Location_1;Service Operator;35;36050;EE;31.47
+M;6;Location_4;Software Developer;35;77052;ND;34.16
+F;6;Location_1;Software Developer;35;82302;ME;20.22
+M;3;Location_1;Software Developer;14;21532;EE;30.26
+M;3;Location_1;Software Developer;35;70350;EE;32.85
+M;0;Location_4;Service Operator;35;26442;ME;36.21
+M;12;Location_3;Service Operator;28;61978;ME;28.28
+F;5;Location_1;Software Developer;35;76702;EE;28.89
+M;3;Location_3;Service Operator;21;18091;ME;20.08
+M;2;Location_2;Software Developer;35;52254;ME;29.61
+M;4;Location_1;Service Operator;28;55188;SEE;22.8
+M;1;Location_1;Software Developer;35;46147;ND;27.96
+M;1;Location_4;Service Operator;35;31307;SEE;28.14
+F;3;Location_1;Software Developer;35;68862;ND;26.03
+F;3;Location_3;Service Operator;21;20527;EE;36.5
+F;3;Location_3;Software Developer;35;59202;EE;33.96
+M;6;Location_1;Software Developer;21;61425;ND;26.01
+M;5;Location_3;Service Operator;28;26683;SEE;20.01
+F;3;Location_1;Software Developer;35;57470;EE;30.97
+M;0;Location_3;Service Operator;14;15701;ME;32.58
+F;4;Location_3;Service Operator;35;51485;ME;23.7
+M;4;Location_4;Service Operator;21;30145;EE;28.7
+F;0;Location_1;Software Developer;35;58922;ME;28.49
+F;0;Location_3;Service Operator;35;33617;ME;33.4
+F;0;Location_1;Service Operator;35;30397;EE;25.91
+F;0;Location_1;Project Manager;35;46865;ME;23.32
+M;0;Location_1;Service Operator;35;28647;ME;36.22
+F;12;Location_1;Software Developer;35;99610;ME;34.21
+M;3;Location_3;Service Operator;35;48229;EE;34.05
+F;8;Location_1;Director Consulting Expert;35;141050;ME;25.52
+F;0;Location_2;Software Developer;35;50697;ME;33.35
+F;2;Location_1;Service Operator;21;17356;EE;34.65
+M;7;Location_1;Service Operator;35;60952;ME;35.07
+M;1;Location_1;Project Manager;28;47950;ME;38.09
+F;7;Location_2;Business Analyst;35;85260;EE;25.99
+M;22;Location_1;Software Developer;35;96950;ME;25.15
+F;2;Location_4;Service Operator;35;37362;ND;24.45
+M;0;Location_3;Software Developer;28;39242;SEE;25.5
+M;1;Location_4;Service Operator;35;40110;ME;37.91
+F;0;Location_1;Service Operator;35;36330;EE;33.34
+F;8;Location_1;Service Operator;35;62597;ME;37.91
+M;0;Location_1;Service Operator;35;30047;EE;35.56
+M;8;Location_1;Software Developer;35;73167;ME;27.6
+M;3;Location_1;Software Developer;35;53060;EE;28.02
+M;22;Location_3;Service Operator;35;78890;ME;32.12
+M;0;Location_1;Software Developer;35;54985;ME;23.66
+M;0;Location_1;Service Operator;21;19467;ME;27.34
+F;8;Location_1;Service Operator;35;51310;ME;37.29
+M;8;Location_1;Software Developer;35;64855;ME;27.45
+F;0;Location_1;Service Operator;35;34265;EE;31.33
+M;8;Location_2;Service Operator;35;73920;SEE;37.5
+M;2;Location_1;Software Developer;28;46214;ME;24.68
+F;0;Location_1;Service Operator;35;26635;EE;34.25
+M;4;Location_1;Service Operator;35;57750;ND;32.14
+M;3;Location_3;Software Developer;35;57557;ND;31.15
+M;0;Location_1;Service Operator;35;36907;ME;34.69
+M;2;Location_1;Software Developer;35;46847;ME;22.76
+M;6;Location_1;Service Operator;28;42322;ND;21.88
+F;4;Location_1;Software Developer;35;59220;EE;33.87
+M;4;Location_1;Software Developer;35;84840;ND;34.06
+F;4;Location_1;Software Developer;35;109584;ME;31.3
+F;4;Location_1;Business Analyst;28;49392;ME;30.49
+M;1;Location_4;Software Developer;35;50592;EE;33.77
+F;2;Location_1;Software Developer;35;53252;ME;31.95
+F;2;Location_1;Business Analyst;35;45255;ME;29.25
+M;2;Location_3;Software Developer;35;55982;ND;34.38
+M;2;Location_1;Software Developer;35;60777;EE;27.8
+F;1;Location_1;Service Operator;35;31500;EE;32.2
+M;2;Location_2;Business Analyst;35;40232;EE;35.13
+F;0;Location_4;Service Operator;35;46585;EE;20.38
+F;0;Location_1;Project Manager;35;53357;ME;33.87
+M;4;Location_1;Service Operator;35;68757;ME;38.47
+F;17;Location_3;Director Consulting Expert;35;129605;ME;23.88
+M;0;Location_3;Service Operator;21;15760;ME;31.97
+M;1;Location_4;Software Developer;28;44856;ME;26.95
+F;1;Location_1;Service Operator;35;30012;ND;29.2
+F;0;Location_2;Service Operator;35;30064;ND;32.1
+F;2;Location_3;Software Developer;35;63629;ME;26.61
+M;0;Location_4;Service Operator;35;30905;ME;31.21
+F;17;Location_1;Software Developer;35;85855;EE;23.37
+M;7;Location_3;Project Manager;35;79905;ND;25.39
+M;3;Location_4;Software Developer;35;54057;ME;24.96
+F;5;Location_1;Service Operator;14;27251;ME;22.59
+M;1;Location_1;Software Developer;35;65765;EE;32.19
+F;2;Location_2;Service Operator;35;33810;ME;27.6
+M;2;Location_3;Software Developer;28;47838;ME;32.7
+M;2;Location_1;Software Developer;35;61057;ME;34.33
+M;4;Location_1;Software Developer;14;25403;ME;27.95
+F;5;Location_4;Software Developer;35;56350;ME;24.31
+F;3;Location_1;Software Developer;35;78102;EE;27.65
+F;4;Location_1;Service Operator;35;61600;EE;32.1
+F;4;Location_1;Service Operator;35;53707;ME;38.12
+F;9;Location_1;Service Operator;35;53777;ME;32.31
+M;0;Location_1;Business Analyst;35;51397;EE;27.38
+F;0;Location_3;Service Operator;35;26915;ME;27.01
+F;0;Location_2;Software Developer;35;56017;ME;33.36
+F;2;Location_1;Service Operator;35;27930;ME;33.45
+F;0;Location_4;Service Operator;35;39602;ME;30.27
+F;3;Location_2;Software Developer;35;62650;ME;38.73
+F;0;Location_1;Service Operator;35;42315;ME;35.01
+F;6;Location_1;Director Consulting Expert;35;159005;EE;29.24
+F;0;Location_3;Business Analyst;35;49892;ME;19.63
+M;1;Location_1;Project Manager;35;59307;ND;27.07
+M;0;Location_1;Software Developer;35;47932;ME;33.83
+M;6;Location_3;Service Operator;21;32865;ME;36.82
+M;2;Location_1;Service Operator;35;28682;ME;34.39
+F;0;Location_2;Service Operator;35;34842;ME;27.67
+F;4;Location_3;Project Manager;35;95847;ME;29.02
+M;0;Location_1;Software Developer;35;78785;ND;29.2
+M;1;Location_1;Business Analyst;14;22554;SEE;30.13
+F;2;Location_3;Service Operator;35;30975;ND;26.0
+F;1;Location_1;Software Developer;35;70367;ME;26.04
+M;0;Location_3;Service Operator;14;15742;EE;33.16
+M;12;Location_1;Service Operator;35;51275;ME;38.85
+M;14;Location_1;Director Consulting Expert;35;183697;EE;29.99
+F;1;Location_1;Software Developer;35;58065;ME;32.92
+M;0;Location_2;Software Developer;35;58065;ME;24.9
+M;9;Location_1;Director Consulting Expert;35;188667;ME;26.61
+M;0;Location_4;Software Developer;35;55300;ME;28.03
+F;0;Location_1;Service Operator;35;31990;ND;30.56
+F;1;Location_1;Service Operator;35;46725;ME;36.33
+F;3;Location_1;Service Operator;14;11543;EE;29.82
+M;0;Location_2;Software Developer;35;49647;ME;34.58
+F;1;Location_2;Software Developer;28;42335;EE;32.27
+M;2;Location_1;Software Developer;28;49378;ME;31.13
+M;9;Location_2;Business Analyst;35;101220;EE;34.62
+F;6;Location_4;Software Developer;35;103530;ME;35.83
+M;3;Location_1;Service Operator;35;33285;ME;26.95
+M;3;Location_1;Service Operator;14;17563;ME;30.29
+F;2;Location_1;Service Operator;35;40215;ME;26.43
+F;20;Location_3;Project Manager;35;148225;ME;30.59
+F;2;Location_1;Service Operator;35;34352;ME;23.87
+M;20;Location_1;Director Consulting Expert;35;155225;ND;32.1
+F;7;Location_3;Service Operator;35;55335;SEE;27.08
+M;1;Location_2;Software Developer;35;46900;ME;23.91
+M;5;Location_1;Software Developer;35;90440;ME;28.06
+F;6;Location_1;Service Operator;35;54687;ME;28.34
+M;1;Location_2;Service Operator;35;43295;ME;25.59
+M;17;Location_2;Service Operator;35;74637;ND;22.54
+M;1;Location_3;Service Operator;35;30782;ND;27.54
+M;3;Location_1;Software Developer;28;42812;EE;24.19
+M;2;Location_2;Service Operator;35;30852;ME;36.69
+M;0;Location_1;Service Operator;35;26530;ME;35.11
+F;0;Location_1;Service Operator;35;30677;ME;34.53
+F;3;Location_1;Software Developer;35;55982;ME;36.36
+M;1;Location_1;Software Developer;35;47250;ME;26.09
+M;1;Location_3;Service Operator;35;45272;ME;30.39
+M;4;Location_3;Service Operator;35;44275;ME;33.6
+M;6;Location_3;Software Developer;35;103110;ME;28.97
+M;4;Location_1;Software Developer;35;68337;ME;30.43
+F;0;Location_1;Service Operator;35;44467;ME;28.16
+M;2;Location_1;Software Developer;14;23674;ME;36.4
+M;1;Location_1;Service Operator;21;23824;ME;39.25
+F;0;Location_2;Software Developer;35;53794;EE;25.6
+F;0;Location_2;Project Manager;35;65327;ME;35.02
+F;1;Location_1;Software Developer;35;72590;EE;28.13
+F;1;Location_1;Service Operator;35;34895;EE;29.9
+M;1;Location_2;Service Operator;35;30659;ME;32.4
+M;0;Location_3;Service Operator;35;36015;ME;31.78
+F;2;Location_3;Software Developer;40;87180;ME;27.15
+F;0;Location_1;Software Developer;40;69220;EE;30.84
+F;6;Location_1;Software Developer;40;103540;ND;30.83
+F;11;Location_1;Business Analyst;40;93540;ME;34.81
+F;3;Location_3;Software Developer;16;23224;ME;27.76
+M;14;Location_1;Business Analyst;40;128700;ND;23.03
+F;5;Location_4;Software Developer;40;109239;ME;31.59
+F;7;Location_1;Software Developer;40;91140;EE;27.56
+M;0;Location_2;Business Analyst;24;32460;ME;24.41
+M;1;Location_1;Software Developer;40;54220;ME;28.48
+F;1;Location_2;Software Developer;40;65000;ME;25.83
+F;0;Location_1;Business Analyst;40;54360;ND;35.92
+F;5;Location_3;Software Developer;40;77140;ME;31.92
+M;2;Location_1;Project Manager;32;56512;EE;28.49
+F;10;Location_1;Software Developer;40;111220;ME;25.05
+F;0;Location_2;Software Developer;40;63100;ME;35.58
+M;6;Location_1;Software Developer;24;49764;EE;26.92
+F;8;Location_4;Software Developer;40;86740;ME;21.54
+M;0;Location_1;Software Developer;40;67159;ME;32.28
+F;0;Location_1;Software Developer;40;67800;ME;27.38
+M;0;Location_1;Software Developer;40;57720;EE;33.25
+M;1;Location_1;Project Manager;40;70100;ME;27.14
+M;3;Location_2;Software Developer;40;60820;EE;28.15
+F;4;Location_4;Business Analyst;40;77440;ME;25.73
+F;2;Location_3;Software Developer;32;58079;ME;34.45
+F;2;Location_1;Software Developer;16;26416;ME;29.72
+M;6;Location_3;Software Developer;40;69720;ME;28.11
+F;3;Location_4;Software Developer;40;81260;ME;31.39
+F;6;Location_4;Software Developer;16;34616;EE;30.64
+F;3;Location_1;Software Developer;40;79300;EE;21.03
+F;5;Location_1;Software Developer;40;122120;ME;28.67
+F;8;Location_1;Software Developer;40;102120;ND;30.4
+F;0;Location_1;Software Developer;40;68580;SEE;33.44
+M;3;Location_1;Software Developer;40;93500;ME;28.65
+F;0;Location_3;Software Developer;40;65640;EE;27.57
+F;7;Location_3;Software Developer;40;83320;ME;36.06
+F;4;Location_1;Software Developer;40;119720;ME;24.28
+M;1;Location_1;Software Developer;40;57140;EE;32.31
+M;5;Location_1;Software Developer;16;36896;EE;30.45
+M;2;Location_1;Software Developer;40;61320;ND;32.04
+M;14;Location_1;Business Analyst;40;108220;ND;24.83
+M;1;Location_4;Business Analyst;40;52020;ME;31.0
+M;7;Location_3;Director Consulting Expert;40;160640;ME;35.6
+M;3;Location_2;Project Manager;16;30464;SEE;29.14
+M;2;Location_2;Business Analyst;40;53000;ND;30.22
+M;2;Location_1;Project Manager;32;42800;ME;33.48
+F;7;Location_1;Software Developer;40;122380;EE;35.82
+F;4;Location_2;Software Developer;16;33832;ME;31.65
+M;0;Location_3;Software Developer;40;73940;ME;31.06
+M;7;Location_1;Software Developer;40;101600;EE;27.16
+F;6;Location_1;Software Developer;40;82459;SEE;31.97
+F;2;Location_1;Software Developer;40;59200;ME;23.08
+F;1;Location_1;Software Developer;40;81800;ME;25.6
+F;8;Location_3;Software Developer;40;93680;ME;27.38
+M;3;Location_3;Software Developer;40;71720;ME;27.65
+M;7;Location_3;Software Developer;40;100240;EE;27.19
+F;1;Location_1;Software Developer;40;67920;ND;33.71
+M;7;Location_4;Director Consulting Expert;40;156260;ND;26.97
+M;5;Location_1;Software Developer;32;77632;ND;38.36
+M;23;Location_1;Director Consulting Expert;40;210520;ME;34.78
+F;6;Location_1;Software Developer;40;79320;ME;28.74
+F;3;Location_1;Project Manager;40;87100;ME;38.12
+F;1;Location_3;Software Developer;40;61060;ME;32.69
+M;0;Location_1;Software Developer;40;59159;EE;27.79
+F;3;Location_1;Software Developer;40;62659;ME;25.17
+F;12;Location_1;Software Developer;40;115159;ME;25.91
+M;2;Location_3;Software Developer;40;54460;ME;29.17
+M;1;Location_3;Project Manager;16;29895;ME;35.71
+M;4;Location_3;Software Developer;40;67980;ME;38.9
+M;7;Location_3;Software Developer;32;77776;ND;26.62
+M;15;Location_1;Software Developer;40;91840;ME;36.83
+F;1;Location_1;Software Developer;40;57840;ME;27.03
+F;2;Location_2;Business Analyst;40;49760;ND;27.52
+F;0;Location_4;Software Developer;40;65720;ME;30.1
+F;3;Location_3;Software Developer;40;58760;ME;22.95
+M;3;Location_1;Business Analyst;40;67959;ME;34.79
+F;0;Location_1;Software Developer;40;56720;EE;24.98
+M;13;Location_1;Director Consulting Expert;40;198460;ME;26.57
+M;1;Location_2;Software Developer;24;47040;ME;21.92
+F;2;Location_1;Business Analyst;40;50880;ME;33.35
+M;0;Location_4;Project Manager;32;65024;EE;39.87
+F;6;Location_2;Software Developer;40;91920;ME;26.74
+F;1;Location_1;Software Developer;40;61880;ME;28.89
+M;0;Location_4;Software Developer;40;56679;EE;30.9
+M;0;Location_1;Project Manager;40;54260;ME;26.91
+M;1;Location_1;Software Developer;40;66860;EE;31.33
+F;4;Location_1;Business Analyst;40;90980;ME;21.85
+F;5;Location_1;Director Consulting Expert;40;139560;EE;34.75
+F;1;Location_1;Software Developer;40;62720;EE;22.73
+M;4;Location_1;Software Developer;24;43488;ME;28.24
+M;0;Location_2;Software Developer;40;56380;ME;32.52
+M;2;Location_1;Software Developer;24;35124;EE;25.56
+F;0;Location_1;Software Developer;40;62840;ME;35.2
+M;8;Location_4;Software Developer;40;96040;ND;31.02
+F;6;Location_1;Director Consulting Expert;40;183260;ME;23.17
+M;3;Location_1;Software Developer;40;62279;EE;27.16
+M;5;Location_4;Software Developer;40;95340;EE;29.05
+F;0;Location_2;Software Developer;40;71520;ME;31.29
+F;1;Location_1;Software Developer;40;81720;EE;35.13
+F;11;Location_1;Software Developer;40;99980;ME;29.3
+M;6;Location_4;Software Developer;40;76520;EE;32.84
+M;0;Location_3;Software Developer;40;65240;ME;28.29
+M;3;Location_3;Software Developer;40;60960;ND;29.19
+F;7;Location_2;Software Developer;40;96340;ND;36.22
+F;3;Location_1;Project Manager;40;85820;ME;31.27
+F;5;Location_3;Software Developer;40;85560;SEE;30.25
+F;4;Location_1;Software Developer;40;70300;ME;36.05
+F;1;Location_1;Software Developer;40;77400;ME;32.28
+M;2;Location_2;Software Developer;16;26152;ME;34.11
+F;8;Location_1;Director Consulting Expert;40;155400;ME;28.21
+M;4;Location_3;Software Developer;40;92780;ND;26.75
+F;1;Location_1;Software Developer;16;25464;ME;31.7
+M;4;Location_4;Software Developer;16;28495;ME;27.73
+F;1;Location_3;Software Developer;32;51120;ND;28.29
+M;5;Location_2;Software Developer;40;118340;EE;20.54
+M;5;Location_1;Software Developer;40;74959;EE;21.51
+M;5;Location_1;Director Consulting Expert;40;174919;EE;27.89
+F;1;Location_1;Software Developer;40;66420;ME;33.15
+F;5;Location_1;Project Manager;40;109920;ND;26.9
+F;0;Location_1;Software Developer;40;52560;ME;20.01
+F;0;Location_1;Software Developer;40;54540;ND;23.55
+M;0;Location_3;Software Developer;24;43956;ND;28.6
+M;3;Location_3;Software Developer;40;78240;ME;22.76
+M;0;Location_3;Software Developer;40;65200;ME;36.17
+M;1;Location_1;Software Developer;16;22736;ME;26.97
+F;0;Location_2;Software Developer;32;44112;ND;30.21
+F;4;Location_4;Software Developer;40;78820;ME;34.65
+M;2;Location_3;Software Developer;40;57380;ND;32.32
+F;4;Location_1;Software Developer;32;72896;ME;34.22
+M;3;Location_1;Software Developer;16;21104;EE;37.21
+M;2;Location_2;Software Developer;40;54079;SEE;31.85
+F;17;Location_1;Director Consulting Expert;40;186020;ND;29.5
+M;1;Location_1;Business Analyst;40;54400;ME;36.4
+F;1;Location_1;Business Analyst;24;30564;ME;29.08
+M;1;Location_1;Software Developer;40;71200;EE;26.25
+F;11;Location_2;Project Manager;40;131640;SEE;34.04
+M;4;Location_1;Software Developer;40;86600;ND;27.35
+M;2;Location_1;Project Manager;32;56352;ME;25.77
+F;8;Location_1;Director Consulting Expert;40;154080;ME;23.49
+F;5;Location_1;Project Manager;40;140319;ME;27.73
+F;5;Location_1;Software Developer;40;78400;ME;32.63
+M;10;Location_1;Project Manager;24;89904;SEE;30.87
+F;0;Location_1;Software Developer;40;64420;ME;37.71
+M;3;Location_2;Software Developer;40;60479;ME;33.63
+M;3;Location_1;Software Developer;40;76480;ME;30.7
+M;0;Location_3;Software Developer;40;69000;EE;25.37
+F;1;Location_3;Software Developer;40;66860;ME;24.92
+F;3;Location_1;Business Analyst;24;42191;EE;29.82
+F;2;Location_1;Software Developer;40;75180;EE;34.71
+M;1;Location_3;Software Developer;40;82200;SEE;27.27
+F;2;Location_1;Software Developer;40;54060;ME;34.5
+M;0;Location_1;Software Developer;40;60659;ME;22.69
+M;1;Location_4;Software Developer;32;63264;SEE;36.52
+M;14;Location_1;Software Developer;40;108440;ME;29.64
+M;20;Location_1;Software Developer;40;132580;ND;28.72
+F;4;Location_3;Software Developer;40;77040;ME;23.85
+M;0;Location_1;Software Developer;16;26408;EE;31.66
+M;9;Location_1;Director Consulting Expert;40;128380;ME;34.92
+M;0;Location_1;Software Developer;16;25927;EE;35.4
+F;0;Location_1;Software Developer;40;63740;ME;29.33
+M;0;Location_3;Software Developer;40;85360;EE;37.1
+M;10;Location_3;Director Consulting Expert;40;163919;EE;31.11
+M;1;Location_2;Software Developer;40;60400;ME;18.46
+F;1;Location_4;Software Developer;40;61979;EE;20.0
+F;0;Location_4;Software Developer;40;56140;ME;25.25
+M;13;Location_3;Software Developer;24;68592;ME;30.91
+F;4;Location_3;Software Developer;24;49643;ME;25.99
+F;6;Location_1;Software Developer;40;86400;ME;26.77
+F;4;Location_1;Software Developer;40;76060;ND;26.97
+M;5;Location_1;Business Analyst;40;101580;SEE;23.84
+M;0;Location_1;Software Developer;40;91420;ME;35.06
+F;2;Location_3;Software Developer;40;56820;ME;27.92
+F;0;Location_1;Software Developer;40;62740;EE;27.66
+F;6;Location_1;Software Developer;40;109739;ME;31.51
+M;3;Location_4;Software Developer;40;61840;EE;26.64
+F;0;Location_1;Software Developer;40;61460;ME;39.72
+F;3;Location_1;Software Developer;16;35976;ME;34.54
+F;1;Location_1;Software Developer;40;77800;ME;27.16
+F;21;Location_3;Software Developer;40;144620;ME;29.19
+F;3;Location_4;Software Developer;40;62260;ME;33.35
+M;3;Location_3;Software Developer;40;64000;EE;33.12
+M;0;Location_4;Software Developer;16;34344;ND;32.36
+M;4;Location_3;Software Developer;40;81320;ME;35.78
+M;13;Location_1;Software Developer;40;115859;ME;27.88
+M;0;Location_1;Software Developer;40;69060;ME;26.01
+M;11;Location_1;Director Consulting Expert;40;192740;EE;37.02
+M;6;Location_1;Software Developer;24;50724;ME;33.29
+F;1;Location_1;Software Developer;40;77800;EE;26.34
+F;1;Location_1;Software Developer;40;70740;ME;25.47
+M;7;Location_2;Business Analyst;40;66180;ME;21.12
+F;0;Location_3;Software Developer;40;79300;ME;33.63
+F;2;Location_1;Software Developer;40;61860;ME;29.76
+M;1;Location_1;Software Developer;32;47600;ME;26.26
+F;2;Location_1;Software Developer;32;62784;ME;29.11
+M;2;Location_1;Software Developer;40;60600;ME;30.6
+M;0;Location_1;Software Developer;40;69580;ME;33.86
+F;0;Location_3;Software Developer;40;60960;EE;26.01
+F;1;Location_1;Software Developer;40;70840;ME;31.1
+F;6;Location_1;Software Developer;40;78800;EE;27.72
+M;4;Location_1;Business Analyst;40;72500;ME;35.06
+M;16;Location_1;Director Consulting Expert;40;242360;EE;37.14
+M;4;Location_1;Software Developer;40;95180;ME;29.21
+F;1;Location_1;Software Developer;40;55119;ND;28.94
+M;3;Location_1;Software Developer;40;96840;ME;20.23
+M;5;Location_1;Software Developer;40;82860;ME;27.23
+M;1;Location_4;Software Developer;32;65040;ME;31.82
+F;2;Location_4;Software Developer;32;56064;ND;32.16
+F;1;Location_4;Software Developer;32;64240;ME;28.18
+M;6;Location_1;Project Manager;40;119120;ME;25.65
+F;1;Location_1;Software Developer;24;34968;ME;38.89
+F;2;Location_1;Software Developer;40;79820;SEE;33.88
+M;11;Location_1;Director Consulting Expert;40;225080;EE;28.51
+F;8;Location_1;Director Consulting Expert;40;164380;ME;33.83
+F;0;Location_1;Software Developer;24;44472;ME;24.2
+F;6;Location_1;Director Consulting Expert;40;157819;ME;30.26
+F;1;Location_1;Software Developer;40;70540;ME;35.94
+M;2;Location_1;Software Developer;40;65760;ME;24.73
+F;4;Location_4;Software Developer;24;36636;ME;29.61
+M;3;Location_1;Software Developer;40;57720;EE;27.48
+M;16;Location_1;Director Consulting Expert;40;225240;ME;31.11
+F;1;Location_2;Software Developer;40;69480;ME;28.09
+M;7;Location_1;Director Consulting Expert;40;187340;ME;36.53
+F;5;Location_3;Software Developer;40;93700;EE;32.58
+M;0;Location_3;Software Developer;24;59424;ME;20.05
+M;2;Location_1;Software Developer;40;68720;ME;27.57
+F;1;Location_2;Project Manager;40;73340;EE;29.72
+M;14;Location_1;Software Developer;40;101500;ME;22.21
+F;1;Location_1;Software Developer;16;23744;ND;24.03
+F;5;Location_1;Director Consulting Expert;40;144360;ME;33.25
+F;4;Location_1;Business Analyst;40;67780;ME;35.22
+M;0;Location_3;Software Developer;40;64620;ME;25.31
+F;1;Location_3;Software Developer;40;66980;ME;29.98
+M;8;Location_1;Software Developer;40;99120;ND;22.6
+M;1;Location_3;Software Developer;40;72260;ME;17.73
+M;5;Location_1;Software Developer;16;38904;ME;39.14
+M;4;Location_1;Software Developer;40;71180;ME;28.26
+M;3;Location_1;Software Developer;40;108440;EE;28.68
+F;0;Location_1;Project Manager;32;57936;ME;30.91
+M;1;Location_1;Software Developer;40;68159;ME;17.95
+F;0;Location_3;Project Manager;40;59940;EE;22.11
+F;1;Location_1;Software Developer;40;55500;ME;27.12
+M;0;Location_1;Software Developer;40;56440;EE;33.58
+M;0;Location_1;Software Developer;32;58032;ME;32.86
+F;3;Location_4;Software Developer;40;68459;ME;22.0
+M;0;Location_4;Software Developer;40;86380;SEE;27.0
+F;2;Location_1;Software Developer;40;77280;ME;27.65
+M;10;Location_3;Director Consulting Expert;40;149480;ME;24.23
+M;3;Location_1;Software Developer;40;91360;ME;37.54
+F;2;Location_2;Software Developer;32;58304;ME;28.56
+F;2;Location_1;Software Developer;40;60300;ME;28.47
+F;1;Location_2;Software Developer;16;28776;ME;31.84
+F;0;Location_4;Software Developer;40;81060;ME;31.6
+F;4;Location_2;Business Analyst;40;66080;ND;27.48
+F;7;Location_4;Software Developer;40;90740;ND;32.18
+M;10;Location_2;Software Developer;40;123520;ME;19.82
+F;0;Location_3;Software Developer;40;75659;ME;29.21
+F;7;Location_1;Software Developer;40;87080;ME;36.5
+M;1;Location_1;Software Developer;40;54460;ME;18.17
+M;0;Location_1;Project Manager;40;59220;ME;27.54
+M;2;Location_3;Software Developer;40;75020;EE;29.57
+M;2;Location_4;Software Developer;40;60360;ME;30.13
+F;6;Location_1;Software Developer;40;73880;ME;32.46
+M;1;Location_3;Software Developer;40;68780;ME;32.31
+F;3;Location_1;Software Developer;40;67860;EE;31.7
+M;6;Location_1;Software Developer;40;95740;ME;32.57
+F;4;Location_3;Software Developer;40;81240;ME;37.83
+F;4;Location_1;Software Developer;40;77140;ME;34.42
+M;0;Location_3;Software Developer;40;69020;ME;30.35
+M;2;Location_4;Software Developer;40;71440;ME;34.67
+M;5;Location_1;Software Developer;40;114760;ME;31.45
+F;6;Location_1;Software Developer;40;127120;ME;38.8
+M;5;Location_3;Software Developer;24;62879;EE;33.26
+F;0;Location_1;Software Developer;40;59100;ME;25.21
+F;1;Location_3;Software Developer;32;48928;ND;24.36
+M;1;Location_1;Software Developer;32;50384;EE;23.15
+F;2;Location_2;Software Developer;40;69459;ND;35.66
+F;5;Location_3;Software Developer;40;72120;ME;31.1
+F;5;Location_3;Business Analyst;40;102080;ME;22.35
+M;4;Location_3;Software Developer;40;82940;ME;30.41
+F;2;Location_1;Software Developer;32;60960;ME;21.01
+F;1;Location_2;Software Developer;40;77580;ME;21.87
+F;3;Location_3;Business Analyst;16;22536;EE;30.63
+M;0;Location_1;Software Developer;40;66240;ME;25.37
+M;0;Location_3;Software Developer;40;64879;EE;35.22
+M;0;Location_1;Software Developer;16;25839;EE;29.86
+F;6;Location_3;Business Analyst;40;105040;EE;26.39
+M;1;Location_3;Software Developer;40;70520;ME;33.89
+F;3;Location_2;Software Developer;40;60840;ME;36.3
+M;0;Location_1;Software Developer;40;59079;EE;33.11
+F;4;Location_3;Software Developer;32;52816;ME;38.99
+M;0;Location_3;Software Developer;40;68760;ME;30.03
+F;1;Location_1;Software Developer;40;83620;ND;26.95
+M;0;Location_4;Software Developer;40;76920;ME;22.38
+F;1;Location_1;Software Developer;16;21392;EE;34.59
+M;4;Location_4;Software Developer;40;88380;ND;17.22
+F;13;Location_3;Software Developer;40;109300;SEE;26.29
+M;1;Location_1;Software Developer;40;81600;ME;32.45
+M;3;Location_2;Project Manager;40;108880;ME;25.89
+F;2;Location_1;Software Developer;40;64900;ND;31.16
+F;4;Location_1;Software Developer;40;66480;ME;34.01
+M;0;Location_3;Software Developer;40;57020;EE;27.05
+M;7;Location_3;Software Developer;40;93920;EE;21.89
+M;17;Location_1;Business Analyst;40;124080;ME;36.09
+M;1;Location_1;Project Manager;40;84300;SEE;21.76
+M;4;Location_2;Software Developer;16;35112;ME;21.54
+M;0;Location_3;Business Analyst;40;74640;ME;34.35
+F;10;Location_1;Business Analyst;40;109880;ME;31.5
+M;1;Location_4;Software Developer;40;80680;ME;26.17
+F;7;Location_4;Software Developer;40;90800;EE;33.03
+F;1;Location_1;Software Developer;40;59880;ME;25.25
+F;13;Location_1;Director Consulting Expert;40;215500;ND;18.3
+F;2;Location_1;Software Developer;40;73459;ME;25.31
+M;15;Location_1;Director Consulting Expert;40;157080;ME;26.78
+M;7;Location_1;Software Developer;16;30832;ME;30.44
+F;2;Location_3;Software Developer;40;88900;ME;21.46
+F;10;Location_1;Director Consulting Expert;40;181200;ME;31.31
+M;0;Location_1;Software Developer;40;56440;ME;27.36
+F;11;Location_1;Software Developer;40;149640;ME;27.48
+F;0;Location_2;Software Developer;40;53659;ND;24.43
+F;1;Location_4;Software Developer;40;60720;ME;29.84
+M;4;Location_1;Project Manager;16;35328;ME;32.2
+F;9;Location_2;Software Developer;40;126500;ME;26.25
+F;2;Location_4;Software Developer;40;77220;EE;23.92
+M;0;Location_1;Project Manager;40;74720;ME;29.02
+M;2;Location_1;Software Developer;24;44868;ME;29.22
+M;2;Location_1;Software Developer;40;65220;ME;29.11
+F;3;Location_2;Software Developer;40;69400;SEE;34.26
+M;2;Location_1;Software Developer;40;96740;SEE;27.26
+M;0;Location_1;Software Developer;40;61840;ME;31.3
+M;1;Location_1;Software Developer;24;43152;EE;22.84
+M;2;Location_1;Software Developer;40;63779;ME;33.66
+M;3;Location_4;Software Developer;40;78740;ND;37.35
+F;0;Location_1;Software Developer;40;65720;ME;38.67
+F;0;Location_1;Software Developer;24;38772;ME;30.97
+M;3;Location_1;Software Developer;16;24832;EE;28.38
+M;15;Location_1;Director Consulting Expert;40;175660;ME;31.2
+F;2;Location_3;Software Developer;40;56179;EE;35.33
+F;0;Location_2;Software Developer;40;59240;ME;28.81
+F;0;Location_1;Software Developer;40;56000;ME;37.95
+M;0;Location_3;Software Developer;40;58540;ME;29.05
+M;1;Location_1;Software Developer;40;65659;ME;37.86
+F;0;Location_1;Software Developer;16;27264;ME;31.73
+M;7;Location_4;Software Developer;16;42360;ND;33.03
+F;0;Location_1;Software Developer;16;25783;ME;28.75
+M;5;Location_1;Director Consulting Expert;40;169160;ME;28.09
+M;0;Location_1;Business Analyst;40;68659;ME;28.75
+F;1;Location_1;Software Developer;40;60479;ME;30.05
+M;3;Location_4;Business Analyst;40;66520;EE;32.15
+M;5;Location_1;Director Consulting Expert;40;146460;ME;27.22
+M;0;Location_3;Software Developer;40;62320;ME;39.93
+F;4;Location_1;Software Developer;24;36888;SEE;26.92
+M;0;Location_1;Software Developer;16;33824;ME;33.26
+F;3;Location_2;Software Developer;40;77420;EE;36.91
+F;0;Location_3;Business Analyst;40;60920;ME;26.0
+F;10;Location_1;Director Consulting Expert;40;203940;ND;27.12
+M;1;Location_1;Software Developer;40;63060;EE;27.31
+M;0;Location_3;Software Developer;40;72000;ME;37.49
+F;13;Location_1;Director Consulting Expert;40;172620;SEE;26.85
+M;6;Location_1;Software Developer;40;91620;ME;34.06
+M;4;Location_3;Software Developer;16;27320;ME;26.45
+F;0;Location_2;Project Manager;40;61279;EE;31.06
+M;1;Location_1;Business Analyst;40;53000;ND;28.44
+M;1;Location_2;Software Developer;40;60940;ME;33.45
+M;1;Location_1;Software Developer;40;72940;ND;30.11
+F;7;Location_3;Director Consulting Expert;40;147060;ME;25.62
+F;4;Location_4;Software Developer;40;63440;EE;27.62
+M;0;Location_1;Software Developer;32;58991;ME;39.58
+M;11;Location_1;Software Developer;40;138080;EE;31.0
+F;0;Location_1;Software Developer;40;82159;ME;28.32
+F;7;Location_1;Software Developer;40;107000;ME;30.21
+M;5;Location_1;Software Developer;40;101659;EE;25.57
+M;3;Location_2;Business Analyst;40;51340;ME;27.57
+F;2;Location_1;Software Developer;40;64240;ME;29.85
+F;1;Location_1;Software Developer;40;58020;ME;33.52
+M;0;Location_1;Software Developer;40;56000;EE;36.13
+F;1;Location_1;Software Developer;40;62720;EE;28.4
+M;0;Location_1;Software Developer;40;75459;ME;37.95
+F;2;Location_4;Project Manager;40;54000;ME;30.36
+M;11;Location_1;Software Developer;40;118559;SEE;35.37
+F;15;Location_1;Director Consulting Expert;40;174220;ME;23.12
+F;7;Location_3;Business Analyst;40;117100;ME;32.4
+F;6;Location_2;Director Consulting Expert;40;155860;ME;26.4
+M;1;Location_1;Software Developer;40;80000;ME;29.07
+F;1;Location_3;Software Developer;40;53000;ME;27.44
+M;7;Location_1;Software Developer;40;103959;ME;28.27
+M;0;Location_1;Software Developer;40;54540;ME;30.95
+M;4;Location_1;Software Developer;40;97140;ME;33.62
+F;3;Location_4;Software Developer;40;77380;ME;29.02
+M;3;Location_1;Software Developer;32;59936;ND;28.23
+M;7;Location_4;Software Developer;24;51324;ME;36.94
+M;3;Location_3;Software Developer;32;55344;EE;25.95
+M;0;Location_1;Business Analyst;40;57040;EE;32.43
+F;2;Location_1;Project Manager;40;88900;ME;26.92
+F;1;Location_3;Software Developer;40;77740;EE;33.09
+F;3;Location_1;Project Manager;24;53412;EE;31.67
+F;13;Location_2;Software Developer;40;143440;ND;19.83
+M;0;Location_1;Software Developer;24;31932;ME;36.86
+F;1;Location_4;Software Developer;40;85980;ME;24.73
+F;1;Location_1;Project Manager;40;56040;ME;38.98
+M;1;Location_1;Software Developer;40;75200;ME;37.75
+F;0;Location_1;Software Developer;40;84980;EE;24.05
+F;1;Location_1;Software Developer;40;62400;EE;36.68
+F;17;Location_1;Software Developer;40;120640;SEE;33.26
+M;2;Location_3;Software Developer;16;22424;ME;31.15
+F;1;Location_1;Software Developer;40;60960;ME;26.24
+F;1;Location_1;Software Developer;40;62820;SEE;18.59
+M;5;Location_1;Director Consulting Expert;40;137880;ND;25.85
+M;3;Location_1;Software Developer;40;86459;ME;30.53
+M;2;Location_1;Software Developer;40;55579;ME;33.75
+F;0;Location_1;Software Developer;40;68500;ME;33.78
+M;1;Location_1;Business Analyst;40;65540;ME;35.35
+M;4;Location_3;Software Developer;40;71159;EE;27.85
+M;1;Location_1;Software Developer;40;72980;ME;26.21
+F;1;Location_1;Software Developer;24;39588;ND;35.44
+M;4;Location_1;Software Developer;40;99760;ME;30.2
+M;3;Location_1;Software Developer;40;55979;ND;28.99
+M;4;Location_1;Software Developer;40;75920;SEE;26.23
+F;3;Location_1;Software Developer;24;33336;EE;31.71
+M;1;Location_1;Software Developer;32;45104;ND;39.16
+F;4;Location_2;Software Developer;40;99000;ME;36.87
+F;5;Location_3;Software Developer;40;118520;ME;27.35
+F;1;Location_1;Software Developer;40;81500;EE;29.17
+M;3;Location_1;Software Developer;40;70860;ME;25.76
+F;1;Location_2;Software Developer;40;70080;ME;25.65
+M;2;Location_1;Project Manager;16;33000;ME;25.78
+M;2;Location_1;Software Developer;40;68180;SEE;29.92
+M;6;Location_1;Project Manager;40;134480;ME;25.77
+F;0;Location_4;Software Developer;40;61159;ME;22.01
+M;3;Location_1;Software Developer;40;71380;EE;31.05
+F;2;Location_1;Software Developer;40;62880;EE;29.93
+F;7;Location_1;Software Developer;40;108720;ME;28.2
+M;0;Location_1;Software Developer;40;96020;ME;34.37
+F;1;Location_2;Software Developer;40;86180;ME;25.97
+F;9;Location_1;Director Consulting Expert;40;139080;ME;31.74
+F;4;Location_1;Software Developer;40;99680;ME;24.35
+M;3;Location_3;Software Developer;40;64180;ME;32.71
+M;16;Location_3;Director Consulting Expert;40;180819;ME;28.72
+M;2;Location_2;Software Developer;24;36672;ND;34.26
+F;0;Location_1;Software Developer;24;36888;ME;25.84
+M;5;Location_1;Software Developer;24;50376;ME;31.42
+M;0;Location_1;Software Developer;40;52760;ME;28.33
+F;2;Location_3;Software Developer;40;64279;ME;31.01
+M;3;Location_3;Software Developer;40;74320;ME;30.46
+M;0;Location_1;Software Developer;40;62979;ME;25.15
+M;0;Location_1;Software Developer;40;70620;SEE;24.37
+M;3;Location_2;Software Developer;16;22168;ME;24.44
+F;3;Location_3;Software Developer;40;62560;ME;24.45
+M;9;Location_1;Software Developer;16;42448;SEE;23.21
+F;2;Location_3;Software Developer;40;64740;EE;30.05
+F;6;Location_4;Software Developer;40;107300;EE;25.9
+M;1;Location_1;Software Developer;40;54560;EE;22.95
+M;4;Location_2;Software Developer;32;57696;ME;26.57
+M;0;Location_3;Business Analyst;40;68180;EE;30.52
+M;0;Location_3;Software Developer;40;70260;ND;29.35
+F;9;Location_1;Director Consulting Expert;40;131580;EE;31.17
+F;4;Location_2;Software Developer;32;82352;ME;26.59
+F;7;Location_1;Software Developer;40;85020;EE;28.45
+F;6;Location_4;Business Analyst;32;116208;EE;21.08
+F;7;Location_2;Software Developer;40;132240;ME;30.88
+M;3;Location_3;Software Developer;32;60672;ME;25.57
+M;7;Location_1;Business Analyst;40;110800;ME;35.97
+M;1;Location_1;Business Analyst;16;25960;ME;24.42
+F;1;Location_1;Software Developer;40;74340;EE;32.54
+M;2;Location_3;Software Developer;40;65400;ME;37.47
+F;0;Location_1;Software Developer;40;82080;ND;32.33
+F;10;Location_1;Software Developer;40;105400;ME;28.52
+M;8;Location_2;Director Consulting Expert;40;129240;ME;36.81
+F;3;Location_1;Software Developer;40;72220;SEE;25.46
+M;3;Location_1;Software Developer;40;61760;ME;22.19
+M;3;Location_1;Project Manager;40;55060;ME;26.85
+M;3;Location_3;Software Developer;40;93300;EE;25.23
+F;0;Location_4;Project Manager;24;40932;ME;21.66
+F;0;Location_1;Project Manager;40;63740;ME;35.57
+F;1;Location_3;Software Developer;40;67200;ME;30.16
+M;2;Location_1;Software Developer;40;63500;ME;32.1
+M;6;Location_2;Software Developer;40;81400;EE;35.32
+F;9;Location_1;Director Consulting Expert;40;159460;ME;29.56
+F;0;Location_2;Software Developer;40;57800;ME;27.54
+F;3;Location_1;Software Developer;40;75260;ME;23.59
+F;0;Location_3;Software Developer;40;63560;ME;25.43
+M;1;Location_1;Business Analyst;40;48700;ME;38.55
+F;8;Location_1;Software Developer;40;117680;ME;37.4
+M;10;Location_3;Software Developer;24;82920;ME;28.92
+M;0;Location_3;Software Developer;24;41688;ME;33.76
+F;4;Location_1;Software Developer;16;39160;ND;25.71
+M;4;Location_1;Software Developer;32;60576;SEE;31.28
+F;11;Location_1;Software Developer;40;122020;EE;30.76
+M;11;Location_1;Software Developer;40;93740;SEE;35.4
+F;0;Location_1;Software Developer;32;56704;EE;29.11
+M;1;Location_1;Software Developer;40;77180;SEE;36.82
+M;2;Location_3;Software Developer;40;67459;EE;34.62
+F;10;Location_3;Director Consulting Expert;40;191440;ME;31.19
+M;1;Location_3;Software Developer;16;26408;EE;28.88
+F;3;Location_1;Software Developer;40;100540;ME;38.34
+F;0;Location_3;Software Developer;40;60420;SEE;36.58
+F;4;Location_1;Software Developer;40;75920;ND;29.2
+F;3;Location_3;Software Developer;40;75240;ME;32.24
+M;3;Location_1;Software Developer;16;25920;ND;28.63
+M;1;Location_1;Project Manager;24;33144;ME;38.38
+M;2;Location_4;Project Manager;40;56479;ME;31.99
+F;30;Location_1;Director Consulting Expert;40;235700;ME;31.48
+F;1;Location_4;Software Developer;40;72459;ME;23.8
+M;4;Location_1;Software Developer;40;87959;ME;25.65
+F;0;Location_1;Software Developer;40;65880;SEE;25.54
+M;4;Location_4;Software Developer;24;47928;ME;33.27
+M;5;Location_2;Director Consulting Expert;40;184480;ND;30.44
+M;6;Location_2;Software Developer;40;103239;ME;26.41
+M;3;Location_1;Software Developer;32;53888;ME;25.23
+F;1;Location_1;Business Analyst;40;56860;ME;33.51
+F;4;Location_1;Business Analyst;40;77260;EE;35.88
+F;1;Location_1;Software Developer;32;60224;ME;35.74
+M;6;Location_1;Software Developer;32;85152;ND;35.68
+M;0;Location_4;Software Developer;40;60400;ME;28.4
+F;10;Location_3;Director Consulting Expert;40;182180;ND;31.56
+M;4;Location_1;Business Analyst;40;88860;ME;31.55
+F;14;Location_1;Director Consulting Expert;40;192919;ME;30.34
+F;5;Location_3;Director Consulting Expert;40;153319;ME;31.27
+F;0;Location_3;Software Developer;40;69880;EE;38.37
+F;1;Location_1;Project Manager;32;46672;SEE;28.77
+M;7;Location_1;Director Consulting Expert;40;135660;ME;33.1
+M;2;Location_1;Software Developer;40;53079;ME;28.06
+M;0;Location_3;Project Manager;40;73459;ME;35.75
+F;5;Location_4;Software Developer;40;90560;ME;23.49
+M;0;Location_1;Software Developer;40;89240;EE;29.2
+M;0;Location_4;Business Analyst;40;53960;ME;21.53
+F;1;Location_2;Project Manager;40;83280;ME;37.76
+M;0;Location_1;Project Manager;40;68159;ME;35.22
+F;8;Location_1;Software Developer;40;90220;ME;19.26
+M;1;Location_1;Software Developer;40;60140;ME;37.54
+F;3;Location_3;Software Developer;40;75280;ME;29.11
+M;4;Location_1;Software Developer;40;76260;ME;33.39
+F;0;Location_1;Software Developer;40;79140;ME;27.17
+M;2;Location_4;Software Developer;24;45168;ME;30.48
+F;10;Location_1;Director Consulting Expert;40;185319;ME;29.41
+F;4;Location_1;Software Developer;40;81280;EE;27.17
+M;1;Location_4;Business Analyst;40;65120;ME;31.85
+F;6;Location_1;Software Developer;40;101840;ME;24.53
+F;15;Location_4;Director Consulting Expert;40;203240;EE;36.07
+F;13;Location_2;Director Consulting Expert;40;178319;ND;37.57
+F;1;Location_1;Project Manager;40;72220;EE;34.45
+F;0;Location_1;Project Manager;32;86096;ME;26.54
+F;7;Location_4;Director Consulting Expert;40;146340;EE;36.17
+M;0;Location_1;Project Manager;40;67959;EE;31.51
+F;4;Location_4;Project Manager;40;101600;ME;30.51
+F;5;Location_4;Software Developer;40;89980;ME;29.65
+F;7;Location_2;Project Manager;40;109080;ME;37.21
+M;16;Location_1;Director Consulting Expert;40;179740;ME;25.76
+F;0;Location_3;Software Developer;40;60779;ME;33.79
+F;0;Location_1;Software Developer;40;62179;ND;31.6
+F;1;Location_4;Business Analyst;32;44400;EE;32.41
+M;2;Location_1;Software Developer;24;37356;ME;25.9
+M;5;Location_1;Software Developer;40;93920;ME;23.8
+F;0;Location_3;Software Developer;40;61740;SEE;34.75
+M;0;Location_3;Software Developer;16;29024;ME;30.46
+F;5;Location_1;Software Developer;40;86380;ME;25.82
+F;2;Location_1;Software Developer;40;63940;ME;26.69
+F;0;Location_1;Software Developer;40;69320;SEE;32.9
+F;8;Location_1;Software Developer;16;43976;EE;21.74
+F;14;Location_3;Project Manager;40;132460;EE;39.83
+M;2;Location_1;Software Developer;40;74040;ME;25.01
+F;0;Location_1;Software Developer;16;22192;ME;22.37
+M;8;Location_1;Software Developer;40;113760;EE;24.11
+M;7;Location_2;Business Analyst;40;84920;ND;19.73
+F;8;Location_3;Software Developer;40;70520;ME;22.64
+M;3;Location_1;Business Analyst;40;55119;SEE;38.15
+F;4;Location_1;Software Developer;16;27568;ME;32.23
+M;1;Location_1;Software Developer;40;82880;ND;26.3
+M;4;Location_1;Software Developer;40;88140;EE;35.53
+F;1;Location_2;Software Developer;40;64319;ME;26.15
+F;1;Location_4;Business Analyst;40;57520;ME;29.16
+F;9;Location_4;Software Developer;40;72380;ND;27.76
+F;0;Location_3;Software Developer;40;70420;ME;35.08
+F;13;Location_1;Software Developer;16;46736;ME;34.56
+M;0;Location_1;Software Developer;40;67360;ME;24.38
+F;2;Location_3;Software Developer;32;55488;ND;29.01
+M;4;Location_3;Software Developer;16;38232;ME;29.21
+F;1;Location_1;Software Developer;40;63920;ME;27.17
+F;8;Location_1;Business Analyst;40;111319;ME;23.88
+F;0;Location_4;Software Developer;40;56100;ME;38.08
+M;5;Location_3;Software Developer;40;119300;ME;31.45
+F;0;Location_1;Software Developer;24;35784;ME;33.52
+F;0;Location_3;Software Developer;40;86440;EE;21.01
+M;2;Location_1;Software Developer;40;78900;EE;26.28
+F;1;Location_1;Business Analyst;40;71120;ME;16.64
+F;2;Location_1;Business Analyst;40;62920;ME;33.19
+F;0;Location_1;Software Developer;40;66480;EE;36.03
+F;0;Location_2;Software Developer;40;69600;EE;33.42
+F;7;Location_4;Software Developer;40;93520;ME;31.36
+F;3;Location_1;Business Analyst;40;56979;EE;18.17
+F;0;Location_1;Software Developer;40;56460;ME;28.11
+F;2;Location_2;Software Developer;40;64860;SEE;33.62
+M;1;Location_1;Software Developer;40;63779;ME;31.96
+F;17;Location_1;Software Developer;40;126100;ME;31.33
+F;7;Location_1;Software Developer;16;36008;EE;20.51
+M;8;Location_1;Director Consulting Expert;40;209319;ME;29.08
+F;0;Location_1;Business Analyst;16;18824;ND;30.53
+F;23;Location_1;Software Developer;24;83736;ME;33.5
+M;7;Location_3;Software Developer;40;73340;ND;28.44
+M;3;Location_1;Software Developer;40;79480;ME;24.06
+M;0;Location_3;Software Developer;40;72600;ME;34.37
+F;3;Location_2;Software Developer;40;75560;ME;39.09
+M;7;Location_4;Project Manager;16;53432;ME;26.08
+M;0;Location_1;Software Developer;40;67780;ME;24.73
+M;5;Location_4;Software Developer;40;112020;ME;31.52
+M;0;Location_4;Software Developer;16;21608;ME;26.62
+M;9;Location_1;Software Developer;40;89920;ND;25.85
+M;5;Location_1;Software Developer;40;99959;ME;31.82
+F;3;Location_1;Software Developer;40;134400;EE;33.65
+M;1;Location_3;Software Developer;16;25783;ME;35.22
+M;3;Location_1;Software Developer;40;63340;ND;29.91
+F;7;Location_1;Software Developer;40;104520;ME;29.59
+M;3;Location_1;Software Developer;40;73040;SEE;33.26
+F;0;Location_1;Software Developer;40;69020;ME;27.7
+F;1;Location_1;Software Developer;40;83800;ME;28.47
+M;9;Location_1;Project Manager;40;89760;ME;25.14
+F;3;Location_1;Software Developer;40;90940;ME;36.31
+M;0;Location_3;Software Developer;32;45920;ME;19.86
+F;0;Location_1;Software Developer;24;39960;SEE;27.21
+F;0;Location_1;Software Developer;24;35724;ND;20.74
+M;5;Location_3;Director Consulting Expert;40;158300;EE;29.7
+F;2;Location_1;Business Analyst;40;48460;ME;31.68
+M;4;Location_1;Software Developer;40;91959;ME;31.85
+M;1;Location_2;Software Developer;40;63140;ND;36.08
+M;2;Location_3;Software Developer;32;60032;ND;36.54
+F;27;Location_3;Project Manager;40;139000;EE;30.17
+F;3;Location_1;Business Analyst;16;20576;ND;32.26
+F;17;Location_3;Project Manager;40;117300;ME;27.0
+M;1;Location_1;Project Manager;40;71880;ND;35.49
+M;4;Location_1;Software Developer;40;79520;ME;24.98
+M;4;Location_4;Software Developer;16;27624;ME;30.13
+F;4;Location_1;Software Developer;40;76500;ME;31.56
+F;8;Location_3;Business Analyst;40;108120;ME;31.06
+F;6;Location_3;Software Developer;40;104159;SEE;37.37
+F;1;Location_3;Software Developer;40;73000;ME;24.21
+F;6;Location_4;Software Developer;40;102859;ME;32.41
+F;2;Location_3;Software Developer;40;77940;EE;26.24
+M;9;Location_1;Software Developer;32;79440;EE;29.67
+M;4;Location_1;Software Developer;32;80880;ME;31.0
+F;0;Location_1;Software Developer;40;73360;ME;34.13
+M;4;Location_1;Software Developer;40;95659;ND;25.61
+M;4;Location_3;Software Developer;40;134940;ME;32.14
+F;5;Location_2;Software Developer;40;102760;ME;33.68
+F;4;Location_3;Software Developer;40;82959;EE;31.78
+F;5;Location_1;Director Consulting Expert;40;137919;ME;31.45
+F;8;Location_1;Director Consulting Expert;40;178620;ME;25.53
+F;3;Location_3;Business Analyst;40;46840;ME;37.46
+M;0;Location_1;Software Developer;40;60560;ME;29.97
+F;4;Location_1;Software Developer;40;82980;ME;25.37
+F;1;Location_2;Software Developer;16;26360;ME;35.39
+F;1;Location_3;Business Analyst;40;60960;SEE;21.96
+M;3;Location_1;Software Developer;24;44100;EE;24.43
+M;2;Location_1;Software Developer;40;68220;ME;37.05
+F;7;Location_1;Director Consulting Expert;40;191640;ME;33.1
+F;6;Location_4;Director Consulting Expert;40;133740;ME;29.22
+M;0;Location_4;Software Developer;40;67720;ME;35.11
+F;0;Location_4;Software Developer;40;58840;ME;29.65
+F;1;Location_3;Software Developer;40;57500;ME;28.65
+M;1;Location_1;Software Developer;40;61579;ND;31.01
+F;0;Location_4;Software Developer;40;60119;ME;31.71
+M;1;Location_3;Software Developer;40;66860;EE;29.97
+M;1;Location_1;Software Developer;40;60420;ND;33.25
+F;6;Location_1;Director Consulting Expert;40;186360;EE;24.45
+F;17;Location_4;Director Consulting Expert;40;218979;ME;33.21
+M;0;Location_1;Software Developer;40;67980;EE;33.2
+M;2;Location_3;Software Developer;40;60079;EE;30.26
+F;1;Location_3;Software Developer;40;60720;ME;35.74
+F;5;Location_1;Software Developer;40;80980;ME;24.9
+F;0;Location_1;Software Developer;24;38004;EE;33.0
+F;1;Location_1;Software Developer;40;60960;ME;25.7
+M;1;Location_3;Software Developer;32;61712;EE;32.6
+F;5;Location_4;Business Analyst;40;100200;ND;25.34
+M;7;Location_2;Project Manager;40;130740;SEE;32.43
+F;4;Location_1;Software Developer;40;72280;ME;39.33
+F;3;Location_1;Software Developer;32;48816;ME;29.47
+F;3;Location_3;Software Developer;40;77959;EE;33.6
+F;1;Location_3;Software Developer;40;64779;ME;26.75
+M;1;Location_3;Software Developer;40;54880;EE;32.85
+F;0;Location_3;Business Analyst;40;51360;ME;28.94
+F;1;Location_1;Software Developer;24;37416;ME;20.98
+F;8;Location_1;Software Developer;40;95320;ME;28.79
+F;2;Location_3;Software Developer;40;57000;ND;31.63
+M;1;Location_1;Software Developer;40;65500;ME;28.62
+F;0;Location_4;Software Developer;16;29039;ME;35.34
+M;18;Location_1;Software Developer;40;133300;ME;32.73
+F;0;Location_1;Software Developer;40;56440;EE;31.35
+F;0;Location_1;Software Developer;32;47936;ME;28.97
+F;2;Location_3;Software Developer;40;79580;ME;22.31
+M;1;Location_2;Software Developer;40;69580;ME;26.27
+F;2;Location_2;Project Manager;40;75040;ME;34.33
+M;3;Location_1;Project Manager;40;103940;EE;28.58
+F;7;Location_4;Director Consulting Expert;40;188060;ME;35.4
+F;0;Location_1;Business Analyst;40;58820;ME;34.38
+M;1;Location_1;Software Developer;40;59979;ND;28.83
+F;10;Location_1;Director Consulting Expert;40;188960;ME;13.65
+F;1;Location_1;Project Manager;32;75408;ME;30.74
+F;6;Location_1;Software Developer;40;84440;ME;39.63
+M;7;Location_3;Director Consulting Expert;40;147640;ME;29.57
+F;5;Location_1;Software Developer;40;104620;SEE;34.96
+M;3;Location_1;Project Manager;40;67740;ME;30.64
+F;13;Location_1;Software Developer;40;70620;ND;31.81
+M;16;Location_4;Director Consulting Expert;40;177440;EE;23.78
+F;1;Location_2;Software Developer;40;72240;EE;34.3
+F;3;Location_1;Business Analyst;40;70720;EE;32.97
+F;0;Location_1;Software Developer;40;72480;EE;29.34
+F;2;Location_2;Project Manager;32;53408;SEE;21.68
+F;4;Location_1;Business Analyst;40;80720;ME;30.11
+F;3;Location_1;Software Developer;40;53540;EE;29.76
